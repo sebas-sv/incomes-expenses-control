@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/incomes-expenses-control/static/css/main.63539781.css",
+    "main.js": "/incomes-expenses-control/static/js/main.d50c1147.js",
+    "index.html": "/incomes-expenses-control/index.html",
+    "main.63539781.css.map": "/incomes-expenses-control/static/css/main.63539781.css.map",
+    "main.d50c1147.js.map": "/incomes-expenses-control/static/js/main.d50c1147.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63539781.css",
+    "static/js/main.d50c1147.js"
+  ]
+}
